@@ -80,13 +80,24 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 With everything set up, you're now ready to explore our platform and embark on your mentorship journey. Enjoy!
 
---- 
+--- ## Tech Stack
 
-This merged version includes all the necessary steps for getting started with the project while retaining the information provided earlier.
-## Tech Stack
-- List of technologies used in your project.
+Our project utilizes a modern and efficient tech stack to provide a seamless user experience:
 
-## Screenshots
+- **Frontend**: Next.js Framework
+  We chose Next.js for the frontend due to its simplicity, especially when routing paths to different pages. Next.js provides a smooth development experience and enables us to build dynamic and interactive user interfaces effortlessly.
+
+- **Design and Styling**: Tailwind CSS
+  Tailwind CSS is our go-to choice for designing and styling purposes. Its utility-first approach streamlines the development process, allowing us to create visually appealing and responsive designs with ease. 
+
+- **Backend Integration**: Flask API
+  To seamlessly integrate the frontend with our NLP (Natural Language Processing) backend, we employ Flask API. Flask acts as a bridge between the frontend and backend, facilitating smooth communication and ensuring accurate results are displayed based on user prompts.
+
+This tech stack enables us to deliver a robust and user-friendly mentorship platform, providing personalized guidance tailored to each user's needs.
+
+## Flowchart 
+This is actual flow our web-app.
+<p align="center"> <img src="[https://github.com/prafuel/Chrome-Extensions/blob/main/extension_ss/ss1.png](https://github.com/prafuel/HM0057_TEAM-AZTECHS/blob/main/screenshots/WhatsApp%20Image%202024-02-18%20at%2010.02.09.jpeg)"> </p> <br>
 
 
 ## Deployed Url
