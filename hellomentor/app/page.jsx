@@ -19,8 +19,7 @@ const Home = () => {
          
       </h1>
       <p className="desc text-center">
-      HelloMentor is a platform for mentees to find thier mentors, 
-      and for mentors to find thier mentees.
+      HelloMentor is a platform for mentees to find thier mentors.
       </p>
       <div className='flex mt-12 justify-center'>
         <Link href={isLogin ? `/search` : `/signup`}
