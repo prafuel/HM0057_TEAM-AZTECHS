@@ -97,7 +97,7 @@ This tech stack enables us to deliver a robust and user-friendly mentorship plat
 
 ## Flowchart 
 This is actual flow our web-app.
-<p align="center"> <img src="[https://github.com/prafuel/Chrome-Extensions/blob/main/extension_ss/ss1.png](https://github.com/prafuel/HM0057_TEAM-AZTECHS/blob/main/screenshots/WhatsApp%20Image%202024-02-18%20at%2010.02.09.jpeg)"> </p> <br>
+<p align="center"> <img src="https://github.com/prafuel/HM0057_TEAM-AZTECHS/blob/main/screenshots/WhatsApp%20Image%202024-02-18%20at%2010.02.09.jpeg"> </p> <br>
 
 
 ## Deployed Url
