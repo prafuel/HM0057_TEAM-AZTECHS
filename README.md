@@ -80,7 +80,8 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 With everything set up, you're now ready to explore our platform and embark on your mentorship journey. Enjoy!
 
---- ## Tech Stack
+---
+## Tech Stack
 
 Our project utilizes a modern and efficient tech stack to provide a seamless user experience:
 
@@ -121,14 +122,18 @@ After logging in or signing up, input your prompt to find mentors tailored to yo
 
 ### Mentor Suggestions
 Receive personalized mentor suggestions based on your entered prompt, with the top 5 mentors displayed for your consideration.
-<p align="center"> <img src="https://github.com/prafuel/HM0057_TEAM-AZTECHS/blob/main/screenshots/4.jpeg"> </p> <br>
+<p align="center"> <img src="https://github.com/prafuel/HM0057_TEAM-AZTECHS/blob/main/screenshots/6.jpeg"> </p> <br>
 
 Embark on your mentorship journey with our platform and experience the power of personalized guidance. Let's learn and grow together! 🌟
-## Deployed Url
-[Link to Deployed Solution](gfgpccoe.in)
 
-## Video Url
+### Deployed Url
+https://hm-0057-team-aztechs.vercel.app/
+
+### Video Url
 [Link to Demo Video](video_url)
 
-## Remarks
-- Any additional things you want to share
+## Remarks 🚀
+
+Participating in the Hackmatrix Hackathon was an enriching experience for our team. Throughout the event, we delved into various technologies and methodologies, expanding our knowledge and honing our skills. Integrating AI/ML with our web application was a significant milestone, showcasing our ability to leverage cutting-edge technologies to solve real-world problems.
+
+This project not only allowed us to showcase our technical prowess but also instilled confidence in our ability to develop impactful projects. We are proud of what we have accomplished and look forward to further refining our skills and exploring new avenues in the future. 🌟
