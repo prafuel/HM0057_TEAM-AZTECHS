@@ -130,7 +130,7 @@ Embark on your mentorship journey with our platform and experience the power of 
 https://hm-0057-team-aztechs.vercel.app/
 
 ### Video Url
-[Link to Demo Video](video_url)
+https://youtu.be/OnRn8RMkccs?si=moaejHlkNzk1KAKp
 
 ## Remarks 🚀
 
