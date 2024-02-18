@@ -99,7 +99,31 @@ This tech stack enables us to deliver a robust and user-friendly mentorship plat
 This is actual flow our web-app.
 <p align="center"> <img src="https://github.com/prafuel/HM0057_TEAM-AZTECHS/blob/main/screenshots/WhatsApp%20Image%202024-02-18%20at%2010.02.09.jpeg"> </p> <br>
 
+## How it Looks
 
+Welcome to a glimpse of our mentorship platform! Here's a sneak peek into the user interface:
+
+### Home Page
+Kickstart your journey from our inviting Home Page, where your mentorship adventure begins.
+<p align="center"> <img src="https://github.com/prafuel/HM0057_TEAM-AZTECHS/blob/main/screenshots/1.jpeg"> </p> <br>
+
+### Testimonials
+Explore the testimonials of students who have benefitted from our top mentors, providing insights into their impactful mentorship experiences.
+<p align="center"> <img src="https://github.com/prafuel/HM0057_TEAM-AZTECHS/blob/main/screenshots/2.jpeg"> </p> <br>
+
+### Project Description
+Gain a deeper understanding of our project and the problem statement we aim to address through our innovative mentorship platform.
+<p align="center"> <img src="https://github.com/prafuel/HM0057_TEAM-AZTECHS/blob/main/screenshots/3.jpeg"> </p> <br>
+
+### Prompt Entry
+After logging in or signing up, input your prompt to find mentors tailored to your needs.
+<p align="center"> <img src="https://github.com/prafuel/HM0057_TEAM-AZTECHS/blob/main/screenshots/4.jpeg"> </p> <br>
+
+### Mentor Suggestions
+Receive personalized mentor suggestions based on your entered prompt, with the top 5 mentors displayed for your consideration.
+<p align="center"> <img src="https://github.com/prafuel/HM0057_TEAM-AZTECHS/blob/main/screenshots/4.jpeg"> </p> <br>
+
+Embark on your mentorship journey with our platform and experience the power of personalized guidance. Let's learn and grow together! 🌟
 ## Deployed Url
 [Link to Deployed Solution](gfgpccoe.in)
 
